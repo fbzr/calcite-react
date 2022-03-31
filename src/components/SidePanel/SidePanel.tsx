@@ -107,7 +107,6 @@ const SidePanel = () => {
           <div ref={featureWidgetRef} />
         </div>
       </CalcitePanel>
-      )
     </CalciteShellPanel>
   );
 };
